@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Exam 1EV</string>
+    <string name="name">Name</string>
+    <string name="e_mail_address">e-mail Address</string>
+    <string name="phone">Phone</string>
+    <string name="enter_e_mail">Enter e-mail</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="submit">SUBMIT</string>
+    <string name="nombre">nombre</string>
+    <string name="email">email</string>
+    <string name="telefono">telefono</string>
+    <string name="mailto">mailto:</string>
+    <string name="aviso">Notice</string>
+    <string name="no_se_ha_encontrado_el_email">Email Not Found</string>
+    <string name="no_se_ha_encontrado_el_numero_de_telefono">Phone Number Not Found</string>
+    <string name="tel">tel:</string>
+    <string name="fill_all_data">Fill All Data</string>
+    <string name="confirm">Confirm</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="yes">YES</string>
+    <string name="nuevoNombre">nuevoNombre</string>
+    <string name="nuevoEmail">nuevoEmail</string>
+    <string name="nuevoTelefono">nuevoTelefono</string>
+    <string name="no">NO</string>
+    <string name="correct_data">Correct Data</string>
+</resources>

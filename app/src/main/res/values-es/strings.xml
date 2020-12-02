@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Examen 1EV</string>
+    <string name="name">Nombre</string>
+    <string name="e_mail_address">Correo e-mail</string>
+    <string name="phone">Teléfono</string>
+    <string name="enter_e_mail">Introduce el e-mail</string>
+    <string name="enter_phone_number">Introduce el Número de Teléfono</string>
+    <string name="enter_name">Introduce el Nombre</string>
+    <string name="submit">ENVIAR</string>
+    <string name="nombre">nombre</string>
+    <string name="email">email</string>
+    <string name="telefono">telefono</string>
+    <string name="mailto">mailto:</string>
+    <string name="aviso">Aviso</string>
+    <string name="no_se_ha_encontrado_el_email">No se ha encontrado el email</string>
+    <string name="no_se_ha_encontrado_el_numero_de_telefono">No se ha encontrado el numero de telefono</string>
+    <string name="tel">tel:</string>
+    <string name="fill_all_data">Rellena Todos los datos</string>
+    <string name="confirm">Confirmar</string>
+    <string name="are_you_sure">¿Estás seguro?</string>
+    <string name="yes">SI</string>
+    <string name="nuevoNombre">nuevoNombre</string>
+    <string name="nuevoEmail">nuevoEmail</string>
+    <string name="nuevoTelefono">nuevoTelefono</string>
+    <string name="no">NO</string>
+    <string name="correct_data">Corrige los Datos</string>
+</resources>
